@@ -14,3 +14,14 @@ a {
 * {
   box-sizing: border-box;
 }
+
+h1{
+  font-size: 1.6rem;
+  font-weight: 400;
+  margin: 1rem 0;
+}
+h2{
+  font-size: 1.4rem;
+  font-weight: 400;
+  margin: 1rem 0;
+}
